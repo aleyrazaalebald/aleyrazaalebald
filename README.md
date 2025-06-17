@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aleyrazaalebald
-- 👀 I’m interested in learning GitHub 
-- 🌱 I’m currently learning Linux and Git
+- 👀 I use github to publish my code. 
+- 🌱 I’m currently working C++ and Python 
 - 💞️ I’m looking to collaborate on public OS related Linux based projects
 - 📫 aleyraza57@hotmail.com
 
